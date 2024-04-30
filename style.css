@@ -14,9 +14,21 @@ h1{
   h1{
 
     p{
+
+.beneficios{
+  padding:20px;
+  background-color: #FFFFFF;
+}
       
     }
     text-align: center;
+    em strong{
+      color: red;
+
+      .item{
+        font-style: italic;
+      }
+    }
 
     
     #missao{
