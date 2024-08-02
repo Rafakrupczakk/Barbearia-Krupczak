@@ -94,6 +94,7 @@ text-align: center;
 }
 
 main{
+  background: linear-gradient(#FEFEFE, #888888);
   width: 940px;
   margin: 0 auto;
 }
@@ -151,8 +152,9 @@ th, td{
 }
 
 .principal{
-  background-color: #CCCCCC;
-  padding: 30px;
+  padding: 1em 0;
+  width: 940px;
+  margin: 0 auto;
 }
 
 .titulo-principal{
@@ -162,14 +164,7 @@ th, td{
 
 .texto-centralizado{
   text-align: center;
-}
 
-p{
-  text-align: center;
-}
-
-em strong{
-  color: red;
 }
 
 #missao{
@@ -178,7 +173,8 @@ em strong{
 
 .beneficios{
   padding: 20px;
-  background-color: #FFFFFF;
+  width: 940px;
+  margin: 0 auto;
 }
 
 ul{
